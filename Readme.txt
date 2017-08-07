@@ -5,3 +5,5 @@ Repository for Group Project in Data Science Class The purpose of this project i
 •	A data directory containing input csv file to load in. 
 
 •	A paper directory containing a file (plain text or Markdown) that explains any meaningful patterns in this dataset.
+
+Needs to be updated 
